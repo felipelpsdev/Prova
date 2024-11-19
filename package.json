@@ -1,0 +1,13 @@
+{
+  "name": "prova",
+  "version": "1.0.0",
+  "description": "Criptografia de César",
+  "repository": "https://github.com/felipelpsdev/Prova.git",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luiz Felipe",
+  "license": "ISC"
+}
